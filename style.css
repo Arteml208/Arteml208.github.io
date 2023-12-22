@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2em;
+   color:red;
+    }
+
+    @media (min-width: 400px) {
+      h1 {
+        font-size: 1.5em;
+      }
+    }
+    @media (min-width: 600px) {
+      h1 {
+        font-size: 2em;
+      }
+    }
+
+    @media (min-width: 900px) {
+      h1 {
+        font-size: 3em;
+      }
+    }
+
+  p2 {
+    font-family: Roman, fantasy, Luminari;
+     font-size: 120%;
+     color: red; 
+     }
+p3 {
+    font-family: Roman, fantasy, Luminari;
+     font-size: 120%;
+     color: blue; 
+   }
+p4 {
+    font-family: Arial, fantasy, Luminari;
+     font-size: 120%;
+     color: green;
+  }
+p5 {
+    font-family: "Comic Sans MS", arial, luminary;
+    font-size: 350%;
+    color: purple;
+    }
+p6 {
+    font-family: Roman, arial, luminary;
+    font-size: 180%;
+    color: navy;
+    }
+p7 {
+    font-family: "Comic Sans MS", arial, luminary;
+    font-size: 130%;
+    color: green;
+    }
+p8 {
+    font-family: arial, luminary;
+    font-size: 180%;
+    color: red;
+    }
+p9 {
+    font-family: luminary, Roman, arial;
+    font-size: 130%;
+    color: grey;
+    }
+  </style>
+ </head>
+<body>
